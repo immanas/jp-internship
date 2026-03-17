@@ -1,17 +1,5 @@
 # 💼 JPMorgan Chase & Co. – Software Engineering Virtual Experience
 
-This repository contains my work for the **JPMorgan Chase & Co. Software Engineering Virtual Experience Program (Forage)**.
-
-📅 Completed: November 2025  
-📜 Verified Certificate included
-
-## 🧠 Overview
-
-This program simulates real-world engineering tasks at JPMorgan, focusing on backend systems, data pipelines, and API integration in a financial environment.
-
-
-# JPMorgan Chase & Co. – Software Engineering Virtual Experience
-
 ![Forage](https://img.shields.io/badge/Forage-JPMorgan%20Chase-blue?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Apache-Kafka-black?style=flat-square)
@@ -20,15 +8,12 @@ This program simulates real-world engineering tasks at JPMorgan, focusing on bac
 > Virtual Experience Program by JPMorgan Chase & Co. via Forage  
 > **Completed:** November 2025 · [View Certificate](YOUR_CERTIFICATE_URL)
 
----
 
 ## 📌 About
 
 This repository documents my completion of the **JPMorgan Chase Software Engineering Virtual Experience** on Forage. The program simulates backend engineering tasks used in real-world financial systems — covering event-driven architecture, REST API design, and data persistence.
 
 The work here reflects hands-on exposure to the kind of backend infrastructure that powers large-scale financial platforms.
-
----
 
 ## 🧩 Tasks Completed
 
@@ -90,8 +75,6 @@ jp-virtual-experience/
 - Gained exposure to **backend system design patterns** in financial systems
 - Recognized parallels to **DevOps concerns** — service communication, config management, and pipeline-ready code structure
 
----
-
 ## 📜 Certificate
 
 Verified completion via Forage:  
@@ -105,66 +88,5 @@ This is a **virtual experience program** completed via [Forage](https://www.thef
 not a full-time or part-time internship. It is intended to simulate real engineering 
 tasks and build industry-relevant skills.
 
----
-
 *Completed as part of active upskilling toward DevOps & Cloud Engineering roles.*
-## 🚀 Key Tasks Completed
-
-- ⚙️ **Project Setup**
-  - Set up a production-like backend environment
-  - Structured codebase for scalability
-
-- 🔄 **Kafka Integration**
-  - Implemented event-driven data streaming
-  - Simulated real-time financial data flow
-
-- 🗄️ **H2 Database Integration**
-  - Configured in-memory database
-  - Handled data persistence and querying
-
-- 🌐 **REST API Integration**
-  - Built and consumed REST endpoints
-  - Enabled communication between services
-
-- 🧩 **REST API Controller**
-  - Developed backend controllers
-  - Managed request/response lifecycle
-
-## 🛠 Tech Stack
-
-- Java  
-- Spring Boot  
-- Apache Kafka  
-- H2 Database  
-- REST APIs  
-
-
-## 📂 Project Structure
-
-```
-jp-internship/
-│
-├── src/ # Backend source code
-├── config/ # Kafka & application configs
-├── database/ # H2 setup and schema
-├── controllers/ # REST API controllers
-├── services/ # Business logic
-└── README.md
-```
-
-## 🎯 Key Learnings
-
-- Built understanding of **event-driven architecture (Kafka)**
-- Learned **REST API design and integration**
-- Gained experience with **backend system design**
-- Understood **real-world financial system workflows**
-
-## 📜 Certificate
-
-Proof of completion:  
-- JPMorgan Software Engineering Virtual Experience (Forage) :contentReference[oaicite:0]{index=0}
-
-## 🏁 Conclusion
-This experience provided hands-on exposure to backend engineering concepts used in large-scale financial systems, including APIs, streaming, and data handling.
-
-🤝 *Completed via Forage – JPMorgan Chase & Co. Virtual Experience Program*
+*Completed via Forage – JPMorgan Chase & Co. Virtual Experience Program*
