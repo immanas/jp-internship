@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 > Virtual Experience Program by JPMorgan Chase & Co. via Forage  
-> **Completed:** November 2025 · [View Certificate](YOUR_CERTIFICATE_URL)
+> **Completed:** November 2025 · [View Certificate](https://www.linkedin.com/posts/me-m-gantait_jpmorgan-activity-7399905226922782720-Pnpb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM)
 
 
 ## 📌 About
