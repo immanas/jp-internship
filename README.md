@@ -5,13 +5,9 @@ This repository contains my work for the **JPMorgan Chase & Co. Software Enginee
 📅 Completed: November 2025  
 📜 Verified Certificate included
 
----
-
 ## 🧠 Overview
 
 This program simulates real-world engineering tasks at JPMorgan, focusing on backend systems, data pipelines, and API integration in a financial environment.
-
----
 
 ## 🚀 Key Tasks Completed
 
@@ -35,8 +31,6 @@ This program simulates real-world engineering tasks at JPMorgan, focusing on bac
   - Developed backend controllers
   - Managed request/response lifecycle
 
----
-
 ## 🛠 Tech Stack
 
 - Java  
@@ -45,7 +39,6 @@ This program simulates real-world engineering tasks at JPMorgan, focusing on bac
 - H2 Database  
 - REST APIs  
 
----
 
 ## 📂 Project Structure
 
